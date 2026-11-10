@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "503cp69"
+assignment: "a7"
+owner:
+  username: "mickDoctorDev"
+  id: 170626127
+  accepted_at: "2026-09-08T04:37:40Z"
+source:
+  owner: "nuengwong"
+  owner_id: 83861652
+  repo: "503a6autograde"
+  branch: "main"
